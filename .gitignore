@@ -1,0 +1,11 @@
+bin/
+*.obj
+*.idb
+*.pdb
+*.tlog
+*.log
+*.pch
+hellodx/Debug/
+hellodx/Release/
+*.aps
+*.user
