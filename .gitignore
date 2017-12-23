@@ -5,7 +5,6 @@ bin/
 *.tlog
 *.log
 *.pch
-hellodx/Debug/
-hellodx/Release/
+hellodx/x64
 *.aps
 *.user
